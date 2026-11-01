@@ -1,0 +1,19 @@
+{
+  "entries": [
+    {
+      "id": "2026-11-01-01",
+      "date": "2026-11-01",
+      "time": "21:58",
+      "note": "篝火晚会，惬意轻松",
+      "aiText": "",
+      "feelings": "",
+      "photos": [
+        {
+          "file": "photos/2026-11-01-01/01.jpg",
+          "thumb": "photos/2026-11-01-01/01s.jpg"
+        }
+      ],
+      "status": "pending"
+    }
+  ]
+}
